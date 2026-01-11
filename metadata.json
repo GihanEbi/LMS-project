@@ -1,0 +1,5 @@
+{
+  "name": "LMS Pro - Unified Learning Management System",
+  "description": "A comprehensive, role-based React Learning Management System featuring Admin, Teacher, and Student dashboards with integrated progress tracking, exam management, and real-time analytics.",
+  "requestFramePermissions": []
+}
